@@ -252,6 +252,12 @@ plt.show()
 
 
 # In[ ]:
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+#loading the project data
+df = pd.read_excel("embeddingsdatasheet-1.xlsx")
+df
 
 
 
